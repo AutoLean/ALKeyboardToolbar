@@ -19,6 +19,10 @@
 		D3361343189059A70040360D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D336132B189059A70040360D /* UIKit.framework */; };
 		D336134B189059A70040360D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D3361349189059A70040360D /* InfoPlist.strings */; };
 		D336134D189059A70040360D /* ALKeyboardToolbarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D336134C189059A70040360D /* ALKeyboardToolbarTests.m */; };
+		D3361358189059CF0040360D /* UIView+Borders.m in Sources */ = {isa = PBXBuildFile; fileRef = D3361357189059CF0040360D /* UIView+Borders.m */; };
+		D336135C18905A010040360D /* ALMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D336135A18905A010040360D /* ALMainViewController.m */; };
+		D336135D18905A010040360D /* ALMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D336135B18905A010040360D /* ALMainViewController.xib */; };
+		D336136018905A4A0040360D /* ALKeyboardToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = D336135F18905A4A0040360D /* ALKeyboardToolbar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +52,13 @@
 		D3361348189059A70040360D /* ALKeyboardToolbarTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ALKeyboardToolbarTests-Info.plist"; sourceTree = "<group>"; };
 		D336134A189059A70040360D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D336134C189059A70040360D /* ALKeyboardToolbarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ALKeyboardToolbarTests.m; sourceTree = "<group>"; };
+		D3361356189059CF0040360D /* UIView+Borders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Borders.h"; path = "Classes/UIView+Borders.h"; sourceTree = "<group>"; };
+		D3361357189059CF0040360D /* UIView+Borders.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Borders.m"; path = "Classes/UIView+Borders.m"; sourceTree = "<group>"; };
+		D336135918905A010040360D /* ALMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALMainViewController.h; sourceTree = "<group>"; };
+		D336135A18905A010040360D /* ALMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALMainViewController.m; sourceTree = "<group>"; };
+		D336135B18905A010040360D /* ALMainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ALMainViewController.xib; sourceTree = "<group>"; };
+		D336135E18905A4A0040360D /* ALKeyboardToolbar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ALKeyboardToolbar.h; path = Classes/ALKeyboardToolbar.h; sourceTree = "<group>"; };
+		D336135F18905A4A0040360D /* ALKeyboardToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ALKeyboardToolbar.m; path = Classes/ALKeyboardToolbar.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +120,10 @@
 			children = (
 				D3361336189059A70040360D /* ALAppDelegate.h */,
 				D3361337189059A70040360D /* ALAppDelegate.m */,
+				D336135918905A010040360D /* ALMainViewController.h */,
+				D336135A18905A010040360D /* ALMainViewController.m */,
+				D336135B18905A010040360D /* ALMainViewController.xib */,
+				D336136418906A3E0040360D /* Classes */,
 				D3361339189059A70040360D /* Images.xcassets */,
 				D336132E189059A70040360D /* Supporting Files */,
 			);
@@ -142,6 +157,17 @@
 				D3361349189059A70040360D /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D336136418906A3E0040360D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				D336135E18905A4A0040360D /* ALKeyboardToolbar.h */,
+				D336135F18905A4A0040360D /* ALKeyboardToolbar.m */,
+				D3361356189059CF0040360D /* UIView+Borders.h */,
+				D3361357189059CF0040360D /* UIView+Borders.m */,
+			);
+			name = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D336135D18905A010040360D /* ALMainViewController.xib in Resources */,
 				D3361332189059A70040360D /* InfoPlist.strings in Resources */,
 				D336133A189059A70040360D /* Images.xcassets in Resources */,
 			);
@@ -241,7 +268,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3361334189059A70040360D /* main.m in Sources */,
+				D336136018905A4A0040360D /* ALKeyboardToolbar.m in Sources */,
 				D3361338189059A70040360D /* ALAppDelegate.m in Sources */,
+				D336135C18905A010040360D /* ALMainViewController.m in Sources */,
+				D3361358189059CF0040360D /* UIView+Borders.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,6 +472,7 @@
 				D3361352189059A70040360D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D3361353189059A70040360D /* Build configuration list for PBXNativeTarget "ALKeyboardToolbarTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +481,7 @@
 				D3361355189059A70040360D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

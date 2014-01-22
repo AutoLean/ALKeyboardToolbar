@@ -1,0 +1,761 @@
+TALKeyboardToolbar
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.pch ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar normal i386
+cCompileXIB /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.xib
+cCopyStringsFile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/en.lproj/InfoPlist.strings ALKeyboardToolbar/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Images.xcassets
+cProcessInfoPlistFile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Info.plist /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Info.plist
+cGenerateDSYMFile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar
+cTouch /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052814D5100000000000003B5
+t1384205649
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052814D5400000000000001A0
+t1384205652
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052814D5500000000005838D0
+t1384205653
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052814D5500000000005B82A0
+t1384205653
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052814D550000000000445870
+t1384205653
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052814D550000000000355050
+t1384205653
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052814D5500000000002F6810
+t1384205653
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052814D55000000000004B000
+t1384205653
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052814D55000000000088C680
+t1384205653
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052814D560000000000037620
+t1384205654
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052814D5600000000004848F0
+t1384205654
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052814D5600000000001290B0
+t1384205654
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052814D580000000001DB9910
+t1384205656
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052814D5D00000000002B9F20
+t1384205661
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052814D5F0000000000002338
+t1384205663
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052814D60000000000008D300
+t1384205664
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052814D60000000000038ACB0
+t1384205664
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c00000000526748FB00000000000141F0
+t1382500603
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052814D600000000000013500
+t1384205664
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052814D600000000000033BA0
+t1384205664
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052814D60000000000001CFB0
+t1384205664
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052814D60000000000001B2B0
+t1384205664
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052814D6000000000000632B0
+t1384205664
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052814D600000000000008880
+t1384205664
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052814D600000000000015080
+t1384205664
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052814D6000000000000230E0
+t1384205664
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052814D60000000000000E380
+t1384205664
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052814D600000000000087200
+t1384205664
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052814D6000000000000171A0
+t1384205664
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052814D600000000000039C10
+t1384205664
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052814D60000000000000B0B0
+t1384205664
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052814D600000000000167FE0
+t1384205664
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052814D6000000000000106A0
+t1384205664
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052814D60000000000001CE40
+t1384205664
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052814D600000000000071040
+t1384205664
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052814D600000000000067A10
+t1384205664
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052814D60000000000001BAD0
+t1384205664
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052814D600000000000088BA0
+t1384205664
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052814D6E0000000000000AC9
+t1384205678
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052814D6E0000000000005004
+t1384205678
+s20484
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.h
+c0000000052E022270000000000000129
+t1390420519
+s297
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m
+c0000000052E025B4000000000000092F
+t1390421428
+s2351
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Info.plist
+c0000000052E022270000000000000491
+t1390420519
+s1169
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch
+c0000000052E022270000000000000158
+t1390420519
+s344
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h
+c0000000052E03279000000000000017E
+t1390424697
+s382
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m
+c0000000052E0328D000000000000037C
+t1390424717
+s892
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.xib
+c0000000052E030F5000000000000084B
+t1390424309
+s2123
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.h
+c0000000052E032790000000000000206
+t1390424697
+s518
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m
+c0000000052E0329D0000000000000619
+t1390424733
+s1561
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.h
+c0000000052C1E8860000000000000EBB
+t1388439686
+s3771
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m
+c0000000052C1E8860000000000000993
+t1388439686
+s2451
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Images.xcassets
+c0000000052E022270000000000000088
+t1390420519
+s136
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/en.lproj/InfoPlist.strings
+c0000000052E02227000000000000002D
+t1390420519
+s45
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m
+c0000000052E022270000000000000165
+t1390420519
+s357
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o
+t1390424697
+s67648
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.LinkFileList
+c0000000052E030A400000000000003EB
+t1390424228
+s1003
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o
+t1390424733
+s54956
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o
+t1390424717
+s55652
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o
+t1390424228
+s51300
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o
+t1390424228
+s3776
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/assetcatalog_dependencies.txt
+t1390424229
+s519
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/assetcatalog_generated_info.plist
+t1390424229
+s525
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.pch
+t1390424228
+s115260
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app
+t1390424734
+s306
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM
+t1390424717
+s102
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar
+t1390424734
+s35756
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALMainViewController.nib
+t1390424309
+s2128
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Info.plist
+t1390424229
+s1013
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/PkgInfo
+t1390424229
+s8
+
+N/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/en.lproj/InfoPlist.strings
+t1390424228
+s42
+
+N/usr/lib/libSystem.B.dylib
+c00000000526748EF000000000000E6D0
+t1382500591
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526748FB0000000000012A00
+t1382500603
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526748E5000000000002E320
+t1382500581
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526748EF0000000000021860
+t1382500591
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000526748FA000000000001B620
+t1382500602
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000526748FB00000000000BD920
+t1382500603
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000526748FB000000000000A120
+t1382500603
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000526748FB000000000001D550
+t1382500603
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526748FA0000000000014EE0
+t1382500602
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526748FD0000000000010380
+t1382500605
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000526748FD000000000000C4C0
+t1382500605
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000526748FB00000000000357A0
+t1382500603
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000526748FB000000000000C070
+t1382500603
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000526748EF0000000000168C00
+t1382500591
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000526748FA0000000000010630
+t1382500602
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000526748FC000000000001DF10
+t1382500604
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526748EF0000000000075B00
+t1382500591
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000526748EF000000000007CC70
+t1382500591
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000526748EF00000000000766C0
+t1382500591
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000526748FC0000000000044DC0
+t1382500604
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526748EF0000000000021FA0
+t1382500591
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000526748FC000000000002D900
+t1382500604
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000526748FC000000000001E570
+t1382500604
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000526748F5000000000000CC70
+t1382500597
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000526748F7000000000000C3F0
+t1382500599
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000526748FC00000000000199F0
+t1382500604
+s104944
+
+CBuild AST from /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m
+r0
+
+CBuild AST from /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m
+r0
+
+CBuild AST from /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m
+r0
+
+CBuild AST from /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m
+r0
+
+CBuild AST from /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7973f01d6a90b841^d6adf21d6a90b841^---0#1#1#--18"Check dependencies36"2178B879-FE8D-404B-8057-732F8B6FCCEC-
+
+CCompileAssetCatalog /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Images.xcassets
+s412117028.379729
+e412117029.084747
+r1
+xCompileAssetCatalog
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/LaunchImage-700-568h@2x.png
+o/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Assets.car
+o/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app ALKeyboardToolbar/Images.xcassets112"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app ALKeyboardToolbar/Images.xcassetsbb4461246890b841^3eb215256890b841^-547"/* com.apple.actool.compilation-results *//Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/LaunchImage-700-568h@2x.png/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Assets.car/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@117"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/Images.xcassets/0000000000000000^1399"CompileAssetCatalog Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app ALKeyboardToolbar/Images.xcassets    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Images.xcassets36"48A73879-A665-44AC-BC8E-6B118E88D567-
+bAF9E8EB6-D20D-4D9F-BA59-1D374BCDF2D6
+
+CCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412117497.465482
+e412117497.519603
+r1
+xCompileC
+xBuild/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.h
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.h
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m236"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o ALKeyboardToolbar/ALAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler363e77f96990b841^960785f96990b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m0000000000000000^4445"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o ALKeyboardToolbar/ALAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jeffreyjackson/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-generated-files.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-own-target-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-all-target-headers.hmap -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-project-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources/i386 -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources -F/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator -include /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch -MMD -MT dependencies -MF /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.d --serialize-diagnostics /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.dia -c /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.m -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o36"E230F9E6-DCBB-4E4B-A5BD-17E2BCD964A5-
+b992846E4-58F5-4375-8023-C9CB7F427B62
+
+CCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412117533.940354
+e412117533.991231
+r1
+xCompileC
+xBuild/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.h
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m252"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o ALKeyboardToolbar/Classes/ALKeyboardToolbar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler75cdf01d6a90b841^80b5fe1d6a90b841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m0000000000000000^4485"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o ALKeyboardToolbar/Classes/ALKeyboardToolbar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jeffreyjackson/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-generated-files.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-own-target-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-all-target-headers.hmap -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-project-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources/i386 -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources -F/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator -include /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch -MMD -MT dependencies -MF /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.d --serialize-diagnostics /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.dia -c /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.m -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o36"96FA0BEA-2D43-4729-92AF-E0103E395475-
+b1729AEE9-3C86-4C3A-B6F4-746D804F74FF
+
+CCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412117517.419373
+e412117517.469233
+r1
+xCompileC
+xBuild/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.h
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.h
+o/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m:15:17: warning: method 'ALKeyboardToolbar_Next:' in protocol not implemented [-Wprotocol]
+o@implementation ALMainViewController
+o                ^
+oIn file included from /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m:9:
+oIn file included from /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h:10:
+o/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.h:16:1: note: method 'ALKeyboardToolbar_Next:' declared here
+o- (void)ALKeyboardToolbar_Next:(ALKeyboardToolbar *)_ALKeyboardToolbar;
+o^
+oIn file included from /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m:9:
+o/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h:12:12: note: required for direct or indirect protocol 'ALKeyboardToolbarDelegate'
+o@interface ALMainViewController : UIViewController <UITextFieldDelegate, ALKeyboardToolbarDelegate>
+o           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m250"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o ALKeyboardToolbar/ALMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc66e6b0d6a90b841^ab22780d6a90b841^-1265"/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m:15:17: warning: method 'ALKeyboardToolbar_Next:' in protocol not implemented [-Wprotocol]@implementation ALMainViewController                ^In file included from /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m:9:In file included from /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h:10:/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.h:16:1: note: method 'ALKeyboardToolbar_Next:' declared here- (void)ALKeyboardToolbar_Next:(ALKeyboardToolbar *)_ALKeyboardToolbar;^In file included from /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m:9:/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h:12:12: note: required for direct or indirect protocol 'ALKeyboardToolbarDelegate'@interface ALMainViewController : UIViewController <UITextFieldDelegate, ALKeyboardToolbarDelegate>           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Method 'ALKeyboardToolbar_Next:' in protocol not implemented-412117517#18446744073709551615#0#2(2@46"Method 'ALKeyboardToolbar_Next:' declared here-412117517#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@128"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/ALKeyboardToolbar.h0000000000000000^15#0#15#0#274#0#14"Semantic Issue--2@68"Required for direct or indirect protocol 'ALKeyboardToolbarDelegate'-412117517#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.h0000000000000000^11#11#11#11#227#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m0000000000000000^14#16#14#16#253#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@123"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m0000000000000000^4487"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o ALKeyboardToolbar/ALMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jeffreyjackson/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-generated-files.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-own-target-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-all-target-headers.hmap -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-project-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources/i386 -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources -F/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator -include /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch -MMD -MT dependencies -MF /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.d --serialize-diagnostics /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.dia -c /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.m -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o36"371A05E5-10B0-4CAB-8CE6-756AA9C8BBE9-
+bC62527D1-7A7E-4C19-8080-8F5DCFC3B585
+
+CCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412117028.280689
+e412117028.330321
+r1
+xCompileC
+xBuild/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m246"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o ALKeyboardToolbar/Classes/UIView+Borders.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf2ef47246890b841^259254246890b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m0000000000000000^4467"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o ALKeyboardToolbar/Classes/UIView+Borders.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jeffreyjackson/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-generated-files.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-own-target-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-all-target-headers.hmap -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-project-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources/i386 -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources -F/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator -include /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch -MMD -MT dependencies -MF /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.d --serialize-diagnostics /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.dia -c /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/Classes/UIView+Borders.m -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o36"54A35E9F-4F8C-43D8-A28E-183489234D42-
+bAF9E8EB6-D20D-4D9F-BA59-1D374BCDF2D6
+
+CCompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412117028.279643
+e412117028.309866
+r1
+xCompileC
+xBuild/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m218"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o ALKeyboardToolbar/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler22ab47246890b841^a4534f246890b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m0000000000000000^4391"CompileC Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o ALKeyboardToolbar/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jeffreyjackson/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-generated-files.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-own-target-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-all-target-headers.hmap -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-project-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources/i386 -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources -F/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator -include /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch -MMD -MT dependencies -MF /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.dia -c /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/main.m -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o36"D4DCD47F-4FA8-49B9-AC3D-EBCF8BBB5538-
+bAF9E8EB6-D20D-4D9F-BA59-1D374BCDF2D6
+
+CCompileXIB /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.xib
+s412117109.384952
+e412117109.718106
+r1
+xCompileXIB
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compiling /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.xib53"CompileXIB ALKeyboardToolbar/ALMainViewController.xib7c9b62756890b841^e9d6b7756890b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.xib0000000000000000^914"CompileXIB ALKeyboardToolbar/ALMainViewController.xib    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALMainViewController.nib /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALMainViewController.xib36"92608B94-DA37-47D1-9935-516F18165DF7-
+b0079982C-AC76-471A-A90C-2818E719A2F1
+
+CCopyStringsFile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/en.lproj/InfoPlist.strings ALKeyboardToolbar/en.lproj/InfoPlist.strings
+s412117028.379434
+e412117028.380222
+r1
+xCopyStringsFile
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/en.lproj/InfoPlist.strings
+xALKeyboardToolbar/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy ALKeyboardToolbar/en.lproj/InfoPlist.strings146"CopyStringsFile Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/en.lproj/InfoPlist.strings ALKeyboardToolbar/en.lproj/InfoPlist.stringsed2d61246890b841^155761246890b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/en.lproj/InfoPlist.strings0000000000000000^706"CopyStringsFile Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/en.lproj/InfoPlist.strings ALKeyboardToolbar/en.lproj/InfoPlist.strings    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/en.lproj -- ALKeyboardToolbar/en.lproj/InfoPlist.strings36"341F021A-775F-496E-8B77-0DDEEEB02033-
+bAF9E8EB6-D20D-4D9F-BA59-1D374BCDF2D6
+
+CGenerateDSYMFile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar
+s412117534.018905
+e412117534.033854
+r1
+xGenerateDSYMFile
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Generate /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM157"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar1ee1041e6a90b841^c5ab081e6a90b841^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM/0000000000000000^830"GenerateDSYMFile Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app.dSYM36"6D671A49-7645-459D-84D5-732B8C6CD2F9-
+b1729AEE9-3C86-4C3A-B6F4-746D804F74FF
+
+CLd /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar normal i386
+s412117533.992522
+e412117534.017653
+r1
+xLd
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar
+xnormal
+xi386
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/main.o
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.o
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALAppDelegate.o
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALMainViewController.o
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/UIView+Borders.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Link /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar91"Ld Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar normal i3863a23fe1d6a90b841^6dac041e6a90b841^---0#0#1#--1706"Ld Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar normal i386    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator -F/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator -filelist /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/Objects-normal/i386/ALKeyboardToolbar_dependency_info.dat -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/ALKeyboardToolbar36"21019BB2-37D4-4696-BAD4-5DAB53CA7B06-
+b1729AEE9-3C86-4C3A-B6F4-746D804F74FF
+
+CProcessInfoPlistFile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Info.plist /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Info.plist
+s412117029.252729
+e412117029.254098
+r1
+xProcessInfoPlistFile
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Info.plist
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Process /Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Info.plist137"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Info.plist ALKeyboardToolbar/ALKeyboardToolbar-Info.pliste8be40256890b841^170d41256890b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Info.plist0000000000000000^1153"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Info.plist ALKeyboardToolbar/ALKeyboardToolbar-Info.plist    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Info.plist -genpkginfo /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/assetcatalog_generated_info.plist -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app/Info.plist36"33DE1DE4-725B-4C5C-92F7-FD68816E82C3-
+bAF9E8EB6-D20D-4D9F-BA59-1D374BCDF2D6
+
+CProcessPCH /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.pch ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412117028.248369
+e412117028.279123
+r1
+xProcessPCH
+x/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.pch
+xALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch251"ProcessPCH Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.pch ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercdae3f246890b841^fb7547246890b841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/jeffreyjackson/Documents/AutoLean/Xcode%20Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch0000000000000000^4270"ProcessPCH Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.pch ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jeffreyjackson/Documents/AutoLean/Xcode Projects/ALKeyboardToolbar"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/jeffreyjackson/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-generated-files.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-own-target-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-all-target-headers.hmap -iquote /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/ALKeyboardToolbar-project-headers.hmap -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources/i386 -I/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/ALKeyboardToolbar.build/Debug-iphonesimulator/ALKeyboardToolbar.build/DerivedSources -F/Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.dia -MMD -MT dependencies -MF /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.d -c /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch -o /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Intermediates/PrecompiledHeaders/ALKeyboardToolbar-Prefix-erfldvngqgdoahbjogmeffgovvnf/ALKeyboardToolbar-Prefix.pch.pch36"B6974B0A-7F83-4091-8F54-444A49559016-
+bAF9E8EB6-D20D-4D9F-BA59-1D374BCDF2D6
+
+CProcessPCH /Users/jeffreyjackson/Library/Developer/Xcode/DerivedData/ALKeyboardToolbar-emishijtnazxwradbowqrxiejqpg/Index/PrecompiledHeaders/ALKeyboardToolbar-Prefix-hfrxyrwxuqlthiepmxyyigkdljnv_ast/ALKeyboardToolbar-Prefix.pch.pch ALKeyboardToolbar/ALKeyboardToolbar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/jeffreyjackson/Documents/AutoLean/Xcode\ Projects/ALKeyboardToolbar/Build/Products/Debug-iphonesimulator/ALKeyboardToolbar.app
+r0
+
