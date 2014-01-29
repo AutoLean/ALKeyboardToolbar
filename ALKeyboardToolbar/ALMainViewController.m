@@ -26,7 +26,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    ALKeyboardToolbar *keyboardToolbar = [[ALKeyboardToolbar alloc] init];
+    ALKeyboardToolbar *keyboardToolbar = [[ALKeyboardToolbar alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 50.0f)];
     keyboardToolbar.delegate = self;
     [self.text setInputAccessoryView:keyboardToolbar];
 
@@ -37,6 +37,10 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (void)ALKeyboardToolbar_Next:(ALKeyboardToolbar *)_ALKeyboardToolbar {
+    NSLog(@"NEXT");
 }
 
 @end
