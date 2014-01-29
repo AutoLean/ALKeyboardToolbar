@@ -43,4 +43,12 @@
     NSLog(@"NEXT");
 }
 
+- (void)ALKeyboardToolbar_Back:(ALKeyboardToolbar *)_ALKeyboardToolbar {
+    NSLog(@"BACK");
+}
+
+- (void)ALKeyboardToolbar_Done:(ALKeyboardToolbar *)_ALKeyboardToolbar {
+    NSLog(@"DONE");
+}
+
 @end

@@ -14,12 +14,17 @@
 @protocol ALKeyboardToolbarDelegate
 
 - (void)ALKeyboardToolbar_Next:(ALKeyboardToolbar *)_ALKeyboardToolbar;
+- (void)ALKeyboardToolbar_Back:(ALKeyboardToolbar *)_ALKeyboardToolbar;
+- (void)ALKeyboardToolbar_Done:(ALKeyboardToolbar *)_ALKeyboardToolbar;
 
 @end
 
 @interface ALKeyboardToolbar : UIView
 
 @property (strong, nonatomic) UIButton *nextButton;
+@property (strong, nonatomic) UIButton *backButton;
+@property (strong, nonatomic) UIButton *doneButton;
+
 @property (weak, nonatomic) id<ALKeyboardToolbarDelegate> delegate;
 
 @end
