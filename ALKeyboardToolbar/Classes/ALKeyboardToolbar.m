@@ -25,12 +25,14 @@
         [self.backButton setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
         [self.backButton setTitleColor:[[UIColor whiteColor] colorWithAlphaComponent:.3f] forState:UIControlStateHighlighted];
         [self.backButton addTarget:self action:@selector(ALKeyboardToolbar_Back:) forControlEvents:UIControlEventTouchUpInside];
+        self.backButton.accessibilityIdentifier = @"ALKeyboardToolbar_Back";
         
         self.nextButton = [[UIButton alloc] initWithFrame:CGRectMake(50, 1, 50, frame.size.height)];
         [self.nextButton setTitle:@" 〉" forState:UIControlStateNormal];
         [self.nextButton setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
         [self.nextButton setTitleColor:[[UIColor whiteColor] colorWithAlphaComponent:.3f] forState:UIControlStateHighlighted];
         [self.nextButton addTarget:self action:@selector(ALKeyboardToolbar_Next:) forControlEvents:UIControlEventTouchUpInside];
+        self.nextButton.accessibilityIdentifier = @"ALKeyboardToolbar_Next";
         
         self.doneButton = [[UIButton alloc] initWithFrame:CGRectMake(self.frame.size.width - 95, 1, 92, frame.size.height)];
         [self.doneButton setTitle:@"DONE" forState:UIControlStateNormal];
@@ -43,6 +45,7 @@
         [self.doneButton setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
         [self.doneButton setTitleColor:[[UIColor whiteColor] colorWithAlphaComponent:.3f] forState:UIControlStateHighlighted];
         [self.doneButton addTarget:self action:@selector(ALKeyboardToolbar_Done:) forControlEvents:UIControlEventTouchUpInside];
+        self.doneButton.accessibilityIdentifier = @"ALKeyboardToolbar_Done";
         
         [self addSubview:self.backButton];
         [self addSubview:self.nextButton];
